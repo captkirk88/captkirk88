@@ -1,7 +1,5 @@
-## Current Project
-A zig ECS that resembles bevy_ecs.
-
-Not ready for release yet.
+### Working on...
+- A zig ECS that resembles bevy_ecs.
 
 Systems are pretty much done making this a true Entity-Component-**System**
 
