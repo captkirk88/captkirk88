@@ -100,7 +100,7 @@ ManagerType 7 mixed systems 2,000,000
 ops:       10    15.330 ms/op   376.000 B/op
 ```
 
-No I am not making a bevy clone.  Just having fun trying what's possible in zig.  It is a pretty impressive language and great for those that don't need the borrow checker to treat you like a kid.
+No I am not making a bevy clone.  Just having fun trying what's possible in zig.  It is a pretty impressive language and great for those that don't need the borrow checker to drive you insane.
 
 <!--
 **captkirk88/captkirk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
