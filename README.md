@@ -16,10 +16,10 @@
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 Github Goodies:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=captkirk88&show_icons=true&theme=dark" alt="captkirk88's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=captkirk88&show_icons=true&theme=dark" alt="Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captkirk88&layout=compact&theme=dark" alt="Top Langs" />
 </p>
