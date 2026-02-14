@@ -1,5 +1,5 @@
 <p align="center">
-  <em>I live for the thrill of programming.<br> ~ Me</em>
+  <em>I can fix her.  Give me a keyboard!<br> ~Me</em>
 </p>
 
 ---
