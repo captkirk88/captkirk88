@@ -1,5 +1,5 @@
 <p align="center">
-  <em>I can fix her.  Give me a keyboard!<br> ~Me</em>
+  <em>Interesting times we live in.  Software developers are being replaced by AI, what will follow is everyone else.</em>
 </p>
 
 ---
