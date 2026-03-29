@@ -1,6 +1,9 @@
 <p align="center">
   <em>Interesting times we live in.  Software developers are being replaced by AI, what will follow is everyone else.</em>
 </p>
+<p align="center">
+  <em>Which language will win? Rust vs Zig vs C3 vs Jai vs Odin vs..  None of them.  Use what works for the design and intention.</em>
+</p>
 
 ---
 
