@@ -1,12 +1,13 @@
 <p align="center">
-  <em>Interesting times we live in.  Software developers are being replaced by AI, what will follow is everyone else.</em>
+  <em>Interesting times we live in.  Software developers are being replaced by AI, what will follow is everyone else...</em>
 </p>
-<p align="right">
-  <em>Which language will win? Rust vs Zig vs C3 vs Jai vs Odin vs..  None of them.  Use what works for the design and intention.</em>
-</p>
-<p align="left">
-  <em>The new witch hunt!  Where you are accused of being A.I...</em>
-</p>
+
+##### Everyone else...
+- [Hyundai](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)
+- [Toyota](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
+- [Retail](https://www.businessinsider.com/walmart-store-robot-program-expands-2017-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29)
+- [Agriculture](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
+- [Agriculture 2](https://spectrum.ieee.org/autonomous-robots-plant-tend-and-harvest-entire-crop-of-barley)
 ---
 
 ### 🛠️ Languages:
