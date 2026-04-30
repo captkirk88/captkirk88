@@ -8,6 +8,10 @@
 - [Retail](https://www.businessinsider.com/walmart-store-robot-program-expands-2017-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29)
 - [Agriculture](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
 - [Agriculture 2](https://spectrum.ieee.org/autonomous-robots-plant-tend-and-harvest-entire-crop-of-barley)
+
+
+**Be respectful to people who use A.I. because more than likely, they are your boss. 😂**
+
 ---
 
 ### 🛠️ Languages:
