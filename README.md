@@ -4,6 +4,7 @@
 
 ##### Everyone else...
 - [Hyundai](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)
+- [Hyundai2](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914)
 - [Toyota](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
 - [Retail](https://www.businessinsider.com/walmart-store-robot-program-expands-2017-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29)
 - [Agriculture](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
